@@ -7,7 +7,7 @@ Output: `C:\Users\Owner\Desktop\CAS 2023\Feature Engineering\cas_data_with_engin
 
 ## Column decisions
 
-### 删除列原因说明（中文）
+### 删除列原因说明
 
 为确保建模/分析的稳健性与可解释性，我们依据以下通用准则删除部分列：
 
@@ -266,4 +266,5 @@ Interest Only First Principal And Interest Payment Date           1.0           
            Current Period Credit Event Net Gain or Loss           1.0             0
                           Zero Balance Code Change Date           1.0             0
                                 Loan Holdback Indicator           1.0             0
+
                            Loan Holdback Effective Date           1.0             0
